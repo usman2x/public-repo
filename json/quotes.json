@@ -8,21 +8,147 @@
     },
     {
       "id": 2,
-      "quote": "The Bay of Bengal is hit frequently by cyclones. The months of November and May, in particular, are dangerous in this regard.",
-      "author": "Abdul Kalam",
+      "quote": "Do not be satisfied with the stories that come before you. Unfold your own myth.",
+      "author": "Rumi",
       "category": "Wisdom"
     },
     {
       "id": 3,
-      "quote": "Thinking is the capital, Enterprise is the way, Hard Work is the solution.",
-      "author": "Abdul Kalam",
-      "category": "Success"
+      "quote": "Difficulties in your life do not come to destroy you but to help you realize your hidden potential and power.",
+      "author": "A.P.J. Abdul Kalam",
+      "category": "Inspirational"
     },
     {
       "id": 4,
-      "quote": "If You Can'T Make It Good, At Least Make It Look Good.",
+      "quote": "Success is when your signature becomes an autograph.",
+      "author": "A.P.J. Abdul Kalam",
+      "category": "Success"
+    },
+    {
+      "id": 5,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "Work"
+    },
+    {
+      "id": 6,
+      "quote": "It's fine to celebrate success, but it is more important to heed the lessons of failure.",
       "author": "Bill Gates",
-      "category": "Emotional"
+      "category": "Wisdom"
+    },
+    {
+      "id": 7,
+      "quote": "Not all storms come to disrupt your life. Some come to clear your path.",
+      "author": "Unknown",
+      "category": "Motivational"
+    },
+    {
+      "id": 8,
+      "quote": "The wound is the place where the Light enters you.",
+      "author": "Rumi",
+      "category": "Spiritual"
+    },
+    {
+      "id": 9,
+      "quote": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "category": "Success"
+    },
+    {
+      "id": 10,
+      "quote": "He who opens a school door, closes a prison.",
+      "author": "Victor Hugo",
+      "category": "Education"
+    },
+    {
+      "id": 11,
+      "quote": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela",
+      "category": "Education"
+    },
+    {
+      "id": 12,
+      "quote": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "category": "Happiness"
+    },
+    {
+      "id": 13,
+      "quote": "A journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu",
+      "category": "Motivational"
+    },
+    {
+      "id": 14,
+      "quote": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+      "author": "Mahatma Gandhi",
+      "category": "Wisdom"
+    },
+    {
+      "id": 15,
+      "quote": "An eye for an eye will only make the whole world blind.",
+      "author": "Mahatma Gandhi",
+      "category": "Peace"
+    },
+    {
+      "id": 16,
+      "quote": "Patience is the key to paradise.",
+      "author": "Prophet Muhammad (PBUH)",
+      "category": "Spiritual"
+    },
+    {
+      "id": 17,
+      "quote": "The best among you are those who have the best manners and character.",
+      "author": "Prophet Muhammad (PBUH)",
+      "category": "Character"
+    },
+    {
+      "id": 18,
+      "quote": "A person’s true wealth is the good he does in this world.",
+      "author": "Prophet Muhammad (PBUH)",
+      "category": "Wisdom"
+    },
+    {
+      "id": 19,
+      "quote": "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love.",
+      "author": "Marcus Aurelius",
+      "category": "Philosophy"
+    },
+    {
+      "id": 20,
+      "quote": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "category": "Philosophy"
+    },
+    {
+      "id": 21,
+      "quote": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "category": "Motivational"
+    },
+    {
+      "id": 22,
+      "quote": "Honesty is a very expensive gift. Don’t expect it from cheap people.",
+      "author": "Warren Buffett",
+      "category": "Wisdom"
+    },
+    {
+      "id": 23,
+      "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "author": "Oscar Wilde",
+      "category": "Life"
+    },
+    {
+      "id": 24,
+      "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "category": "Self-Improvement"
+    },
+    {
+      "id": 25,
+      "quote": "Happiness is not something ready-made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "category": "Happiness"
     }
   ]
 }
