@@ -149,6 +149,12 @@
       "quote": "Happiness is not something ready-made. It comes from your own actions.",
       "author": "Dalai Lama",
       "category": "Happiness"
+    },
+    {
+      "id": 26,
+      "quote": "Dummy quote",
+      "author": "Dummy Author",
+      "category": "Dummy"
     }
   ]
 }
